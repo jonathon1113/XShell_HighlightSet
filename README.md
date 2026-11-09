@@ -11,8 +11,8 @@ XShell高亮方案和ColorScheme
 
 > 操作：将文件放到对应文件夹位置然后选中即可。
 >
-> HighlightSet Files：**突出高亮**
+> HighlightSet Files：**Magiclala.hls-突出高亮**
 >
-> ColorScheme Files：**配色**
+> ColorScheme Files：**Magiclala.scs-配色方案**
 
 <img src="assets/image-20261109181915858.png" alt="image-20261109181915858" style="zoom:80%; float:left" />
